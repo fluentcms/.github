@@ -1,14 +1,14 @@
 
 <picture width="120">
         <source
-            srcset="https://github.com/fluentcms/favicon/blob/main/source/logo-dark.svg"
+            srcset="./logo-dark.svg"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github.com/fluentcms/favicon/blob/main/source/logo.svg"
+            srcset="./logo.svg"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github.com/fluentcms/favicon/blob/main/source/logo.svg" />
+        <img src="./logo.svg" />
     </picture>
 
     
